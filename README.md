@@ -1,6 +1,5 @@
 # EX_06 - SARSA Learning Algorithm
 
-
 ## AIM
 
 To implement and analyze the SARSA (State-Action-Reward-State-Action) reinforcement learning algorithm for learning optimal policies in a given environment using on-policy temporal difference control.
@@ -86,20 +85,27 @@ def sarsa(env,
 
 ### Mention the optimal policy, optimal value function , success rate for the optimal policy.
 
-![image](https://github.com/user-attachments/assets/00c0222b-dc96-4256-8fe4-7605efe8246b
+![image](https://github.com/user-attachments/assets/de6233a8-b9d7-4fee-9cbd-9060d5b00f31)
+
 
 ![image](https://github.com/user-attachments/assets/025ffe90-9a13-422b-9037-c2e39c4f1407)
 
+
 ![image](https://github.com/user-attachments/assets/48305d6d-86c4-469e-bceb-a5a92ac5cea8)
+
 
 ![image](https://github.com/user-attachments/assets/df48f519-6e46-4a64-bfe2-a0defde08cea)
 
+
 ![image](https://github.com/user-attachments/assets/0eef8ea3-ed84-4da2-b7ba-0c28ab21e516)
+
+
 
 ![image](https://github.com/user-attachments/assets/5bd60eab-e5a2-4ff6-b172-db8186bf9b5f)
 
 
 ### Include plot comparing the state value functions of Monte Carlo method and SARSA learning.
+
 
 ![image](https://github.com/user-attachments/assets/bace1813-e97a-426c-9447-f35bbb4df1f7)
 
