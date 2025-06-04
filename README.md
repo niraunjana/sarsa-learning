@@ -107,11 +107,10 @@ def sarsa(env,
 ### Include plot comparing the state value functions of Monte Carlo method and SARSA learning.
 
 
-![image](https://github.com/user-attachments/assets/bace1813-e97a-426c-9447-f35bbb4df1f7)
+![image](https://github.com/user-attachments/assets/ffbfb51a-b791-4635-b43b-d54d6c21e946)
 
 
-![image](https://github.com/user-attachments/assets/d7c86360-ba6b-4718-9961-56ad0dde5063)
-
+![image](https://github.com/user-attachments/assets/2d55f92a-6c39-4890-8af8-173f4db7b21e)
 
 
 ## RESULT:
